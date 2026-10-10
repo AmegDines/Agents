@@ -1,0 +1,20 @@
+**/.env
+**/__pycache__/
+**/*.pyc
+**/*.pyo
+**/*.pyd
+**/.Python
+**/venv/
+**/env/
+**/.vscode/
+**/.DS_Store
+**/# Git ignore to prevent leaking secrets and temp files
+**/.secrets/
+**/__pycache__/
+**/*.py[cod]
+**/*$py.class
+**/.ipynb_checkpoints/
+**/decision_trace.json
+**/.env
+**/.vscode/
+**/.claude
